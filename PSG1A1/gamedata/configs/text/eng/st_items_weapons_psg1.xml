@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+
+	<string id="st_wpn_psg1">
+		<text>HK PSG1-A2</text>
+	</string>
+	<string id="st_wpn_psg1_descr">
+		<text>The PSG1 (Prazisionsschutzengewehr) is a semi-automatic sniper rifle designed and produced by the German company Heckler and Koch. It was developed as a high-accuracy, large-magazine capacity, semi-automatic rifle for law enforcement and military use. This model comes with picatinny rails for mounting various optics and devices.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] PEQ LA5 LAM \n \n</text>
+	</string>
+
+
+</string_table>
